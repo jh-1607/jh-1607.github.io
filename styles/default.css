@@ -101,8 +101,22 @@ body {
     padding-bottom: 5px;
     padding-left: 15px;
     padding-right: 15px;
-    
     width: fit-content;
     height: fit-content;
     background-color: rgba(44, 39, 39, 0.8);  /* Add some blending */
+}
+
+.page_contents_empty {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 10px; /* limit */
+    right: 10px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: fit-content;
+    height: fit-content;
 }
