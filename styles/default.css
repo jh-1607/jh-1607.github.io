@@ -92,11 +92,10 @@ body {
 }
 
 .page_contents {
+    display: flex;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    left: 10px; /* limit */
-    right: 10px;
     margin-bottom: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -104,6 +103,7 @@ body {
     padding-right: 15px;
     width: fit-content;
     height: fit-content;
+    max-width: 95%;
     background-color: rgba(44, 39, 39, 0.8);  /* Add some blending */
     z-index: -1;
 }
@@ -112,8 +112,6 @@ body {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    left: 10px; /* limit */
-    right: 10px;
     margin-bottom: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -121,6 +119,7 @@ body {
     padding-right: 15px;
     width: fit-content;
     height: fit-content;
+    max-width: 95%;
     z-index: -1;
 }
 
