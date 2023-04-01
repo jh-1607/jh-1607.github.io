@@ -94,7 +94,7 @@ export default function favorite_sites() {
                                 which itself provides a Lua Script api interface for "Turtles" which can be programmatically controlled. OpenComputers was another mod, which I did include in the current pack,
                                 that could do the same; however, I chose to develop using CC:Tweaked due to the lower resource cost in constructing a Turtle in CC:Tweaked vs OpenComputers. Essentially,
                                 you configure the program within a CC:Tweaked farming turtle with the farm plot bounds and the bot/program takes care of the rest, provided it has a supply of fuel in its
-                                origin chest. This program is not advanced by any means really. The statement "AI" is more of allure in stating the program is self sustaining. In fact, a recent addition I've 
+                                origin chest. This program is not advanced by any means really. The statement "AI" is more of an allure in stating the program is self sustaining. In fact, a recent addition I've 
                                 worked on is batch configuration and control using wireless networking by means of a command computer. I have also given the program the ability to save and resume states. 
                                 I'll include pictures of this project below. I have been on the fence on whether this should be a project I highlight on GitHub. This has been more of a personal endeavor 
                                 for a one-off modded Minecraft playthrough that I have yet to complete. I don't think many others would find use of this program other than me, but I could be wrong. Thanks for
