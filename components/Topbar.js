@@ -121,11 +121,11 @@ export default function Topbar({entries}) {
                 <TopbarContents><Link href="/">Reset</Link></TopbarContents>
             </LeftTopbarContents>
             {headers.map((value) => (
-                <TopbarContents>{value}
+                <TopbarContents key={value}>{value}
                     <DropContainer>
                         <DropFields>
                             {headerMappings[value].map((linkName) => (
-                                <DropFieldLink href={entries[value][linkName]}>{linkName}</DropFieldLink>
+                                <DropFieldLink key={linkName} href={entries[value][linkName]}>{linkName}</DropFieldLink>
                             ))}
                         </DropFields>
                     </DropContainer>

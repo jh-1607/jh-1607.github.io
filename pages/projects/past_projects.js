@@ -118,7 +118,7 @@ export default function favorite_sites() {
                                 be initialized in this region of memory). Link to project below.
                             </li>
                             <li>
-                                Link: <a href="https://github.com/jh-1607/LEDBlinkTrustZone" target="blank">LEDBlinkTrustZone</a>
+                                Link: <a href="https://github.com/jh-1607/LEDBlinkTrustZone" target="blank" rel="noopener noreferrer">LEDBlinkTrustZone</a>
                             </li>
                         </ul>
                         <h3>VulDetect</h3>
@@ -131,7 +131,7 @@ export default function favorite_sites() {
                                 to a repository that were introducing vulnerabilities. The application used the DeepWalk algorithm to produce clusterings
                                 with these insights. I'll link the project below for more info. (Don't think much has occurred with it since I was an RA) 
                             </li>
-                            <li>Link: <a href="https://github.com/nexus-lab/vul-detect" target="_blank">nexus-lab/vul-detect</a></li>
+                            <li>Link: <a href="https://github.com/nexus-lab/vul-detect" target="_blank" rel="noopener noreferrer">nexus-lab/vul-detect</a></li>
                         </ul>
                     </Words>
                 </PageContents>
