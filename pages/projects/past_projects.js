@@ -75,7 +75,7 @@ export default function favorite_sites() {
                                 scenario. My main goal was to progress through enough technological innovation to make it to space and dominate the
                                 server with machines. Of course, magic actually won this one unfortunately. A particular blood magic user (COUGH) got so powerful with the voodoo crap the
                                 server eventually became unplayable for us techians (lol). This all ocurred over the span of 6 months. Every since, I've never really lost the
-                                Modded Mincraft bug. Factorio is great, but something about playing what is essentially Factorio in Minecraft gets me going. So yes,
+                                Modded Minecraft bug. Factorio is great, but something about playing what is essentially Factorio in Minecraft gets me going. So yes,
                                 I've been playing modded Minecraft like this for probably 8 years now. It's been a great pastime to unwind and set the weeks, years, all of life's problems aside.
                                 <br/>
                                 <br/>
