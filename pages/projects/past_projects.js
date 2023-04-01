@@ -74,7 +74,7 @@ export default function favorite_sites() {
                                 was causing many problems during the playthrough (kek). Anywho, the main premise for the "Fantasy World Arena" was to pose a magic vs tech 
                                 scenario. My main goal was to progress through enough technological innovation to make it to space and dominate the
                                 server with machines. Of course, magic actually won this one unfortunately. A particular blood magic user (COUGH) got so powerful with the voodoo crap the
-                                server eventually became unplayable for us techians (lol). This all ocurred over the span of 6 months. Every since, I've never really lost the
+                                server eventually became unplayable for us techians (lol). This all ocurred over the span of 6 months. Ever since, I've never really lost the
                                 Modded Minecraft bug. Factorio is great, but something about playing what is essentially Factorio in Minecraft gets me going. So yes,
                                 I've been playing modded Minecraft like this for probably 8 years now. It's been a great pastime to unwind and set the weeks, years, all of life's problems aside.
                                 <br/>
