@@ -14,7 +14,7 @@ const RickGif = styled.img`
     width: 60%;
     height: auto;
     margin: auto;
-    filter: saturate(0.25) grayscale(0.8) brightness(0.05) blur(5px);
+    filter: saturate(0.25) grayscale(0.8) brightness(0.03) blur(5px);
 `;
 
 const TopbarEntries = {

@@ -111,7 +111,7 @@ export default function favorite_sites() {
                         <h3>SAM L11 TrustZone LED Flashing</h3>
                         <ul>
                             <li>
-                                This project took 10 minutes to do lol. I got an LED to flash using a button on a dev board which was
+                                This project took 10 minutes to do lol. I got an LED to flash using peripherals on a dev board which were
                                 securely configured using ARM's hardware security isolation extension called the TrustZone. The TrustZone
                                 is basically a separate region of memory within the SAM L11 microcontroller that could only be accessed
                                 with the appropriate user privileges (though it's not really "user privileges", devices and programs could
