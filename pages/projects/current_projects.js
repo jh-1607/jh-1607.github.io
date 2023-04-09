@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import GlobalStyle from '../../components/GlobalStyle';
+// import GlobalStyle from '../../components/GlobalStyle';
 import {Helmet} from 'react-helmet';
 import MainContainer from '../../components/MainContainer';
 import Topbar from '../../components/Topbar';
@@ -27,7 +27,6 @@ const TopbarEntriesFavSites = {
 export default function favorite_sites() {
     return(
         <>
-            <GlobalStyle />
             <Helmet>
               <title>Current Projects</title>
             </Helmet>

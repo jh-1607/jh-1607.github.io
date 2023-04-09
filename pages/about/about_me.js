@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import GlobalStyle from '../../components/GlobalStyle';
+// import GlobalStyle from '../../components/GlobalStyle';
 import {Helmet} from 'react-helmet';
 import MainContainer from '../../components/MainContainer';
 import Topbar from '../../components/Topbar';
@@ -32,10 +32,11 @@ const TopbarEntriesAboutMe = {
     }
 };
 
+// <GlobalStyle />
+
 export default function about_me () {
     return (
         <>
-            <GlobalStyle />
             <Helmet>
               <title>About Me</title>
             </Helmet>

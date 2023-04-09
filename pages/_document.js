@@ -6,6 +6,7 @@ function Doc(props) {
     <Html>
       <Head/>
         <body>
+            <script>0</script>
             <Main/>
             <NextScript />
         </body>
