@@ -32,7 +32,7 @@ export default function favorite_sites() {
     return(
         <>
             <Helmet>
-              <title>Favorite Websites</title>
+                <title>Projects I wish I had time to work on</title>
             </Helmet>
             <MainContainer>
                 <Topbar entries={TopbarEntriesFavSites}/>
