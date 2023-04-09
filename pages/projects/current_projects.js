@@ -24,7 +24,7 @@ const TopbarEntriesFavSites = {
     }
 };
 
-export default function favorite_sites() {
+export default function current_projects() {
     return(
         <>
             <Helmet>

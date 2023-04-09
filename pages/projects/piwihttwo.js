@@ -28,7 +28,7 @@ const TopbarEntriesFavSites = {
     }
 };
 
-export default function favorite_sites() {
+export default function piwihttwo() {
     return(
         <>
             <Helmet>
