@@ -52,16 +52,19 @@ export default function about_me () {
                             tinkering/repairing electronics and cars. I'm not a huge fan of social media so I don't really post much online. 
                         </p>
                         <p>
-                            Regarding Programming, I have experience with Python, Java, JavaScript, C#, C, PHP, SQL, and Lua. I honestly
-                            believe that languages aren't as much an experitise as they are in knowing the structure of modern programming languages. 
-                            Most modern programming langauges are imperative, object-oriented languages. So really, if you understand the fundamentals
-                            of these types of languages, such as polymorphism, coercion, functions, types, loops, exceptions, parameters, and scope, 
-                            you should be fine. Then, it's just a matter of syntax.
+                            Regarding programming, I possess experience in several languages such as Python, Java, JavaScript, C#, C, PHP, SQL, and Lua. I firmly believe 
+                            that achieving true proficiency in programming languages requires not only a solid understanding of their technical aspects but also a deep 
+                            comprehension of the intricate structures inherent in modern programming languages.
+                            The majority of contemporary programming languages adhere to an imperative, object-oriented paradigm. By grasping the fundamentals of these 
+                            language types, you will be well-prepared to learn and utilize other languages effectively.
+                            In fact, I have discovered that programming is not solely about what you already know but rather about your ability to solve problems and adapt (and read documentation). 
+                            Once you have a strong foundation in these language paradigms, familiarizing yourself with syntax becomes a matter of practice and exploration 
+                            (although it's worth noting that syntax can still pose challenges even for experienced developers).
                         </p>
                         <p>
                             Anyways, I'm excited for what the future has to offer! I love learning new things, seeing new places, and meeting 
-                            new people. I'm not entirely sure what the main purpose of this website will be other than as my sort of personal 
-                            website blog thing. I'll probably experiment around with it when I'm bored or not working on one of many of my stupid projects. 
+                            new people. I'm not entirely sure what the main purpose of this website will be other 
+                            than as my sort of personal website blog thing. I'll probably experiment around with it when I'm bored or not working on one of many of my stupid projects. 
                             As George Carlin once said, "I have lots of ideas. Trouble is, most of them suck."
                         </p>
                         <br></br>

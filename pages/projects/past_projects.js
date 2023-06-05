@@ -90,7 +90,7 @@ export default function past_projects() {
                                 <br/>
                                 <br/>
                                 Anyways, enough with the babbling. At this point, Computer Craft is no longer a supported mod (as of 1.12.2). So this was all coded using CC:Tweaked, a fork of Computer Craft, 
-                                which itself provides a Lua Script api interface for "Turtles" which can be programmatically controlled. OpenComputers was another mod, which I did include in the current pack,
+                                which itself provides a Lua Script api interface for "Turtles" which can be programmatically controlled. OpenComputers was another mod (which is included in the current pack)
                                 that could do the same; however, I chose to develop using CC:Tweaked due to the lower resource cost in constructing a Turtle in CC:Tweaked vs OpenComputers. Essentially,
                                 you configure the program within a CC:Tweaked farming turtle with the farm plot bounds and the bot/program takes care of the rest, provided it has a supply of fuel in its
                                 origin chest. This program is not advanced by any means really. The statement "AI" is more of an allure in stating the program is self sustaining. In fact, a recent addition I've 
@@ -110,7 +110,7 @@ export default function past_projects() {
                         <h3>SAM L11 TrustZone LED Flashing</h3>
                         <ul>
                             <li>
-                                This project took 10 minutes to do lol. I got an LED to flash using peripherals on a dev board which were
+                                This project took just about 10 minutes to do. I got an LED to flash using peripherals on a dev board which were
                                 securely configured using ARM's hardware security isolation extension called the TrustZone. The TrustZone
                                 is basically a separate region of memory within the SAM L11 microcontroller that could only be accessed
                                 with the appropriate user privileges (though it's not really "user privileges", devices and programs could
