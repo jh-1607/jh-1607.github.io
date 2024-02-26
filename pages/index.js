@@ -19,7 +19,8 @@ const RickGif = styled.img`
 
 const TopbarEntries = {
     "About": {
-        "About Me": "/about/about_me"
+        "About Me": "/about/about_me",
+        "Links": "/about/links"
     },
     "Cool Places": {
         "Favorite Websites": "/places/favorite_sites"

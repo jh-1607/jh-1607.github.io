@@ -20,7 +20,8 @@ const ProfilePic = styled.img`
 
 const TopbarEntriesAboutMe = {
     "About": {
-        "About Me": "/about/about_me"
+        "About Me": "/about/about_me",
+        "Links": "/about/links"
     },
     "Cool Places": {
         "Favorite Websites": "/places/favorite_sites"
