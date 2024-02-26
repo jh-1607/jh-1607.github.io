@@ -54,7 +54,7 @@ export default function current_projects() {
                             So far, the "Luxury Elite" is next on the list. I am in need of a number of tools
                             and especially a suitable property. The current property I'm on will probably suffice but I will need to get creative with it or find a better one to
                             begin the project (due to size limitations). If you or anyone you know might have a good deal on a house with a suitable acreage to accomodate a roughly 40ft long bus, please email me details
-                            as listed on my LinkedIn (see links page under &#34;About&#34; above). I am looking for a long term investment with a solid house no smaller that 1,200 sq. ft on the property, less than or equal to 250K in price.
+                            as listed on my LinkedIn (see links page under &#34;About&#34; above). I am looking for a long term investment with a solid house no smaller than 1,200 sq. ft on the property, less than or equal to 250K in price.
                             I would also prefer the property to be in an unincorporated area within 50 miles of Chattanooga. I intend for this property to be a permanent home of operations for the next
                             ten to twenty years with the end goal to be fully owned within thirty years if time permits. 
                         </b></em>
