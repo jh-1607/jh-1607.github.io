@@ -1,9 +1,9 @@
 import styled from "styled-components";
 // import GlobalStyle from '../../components/GlobalStyle';
-import {Helmet} from 'react-helmet';
-import MainContainer from '../../components/MainContainer';
-import Topbar from '../../components/Topbar';
-import PageContents from '../../components/PageContents';
+import {Helmet} from "react-helmet";
+import MainContainer from "../../components/MainContainer";
+import Topbar from "../../components/Topbar";
+import PageContents from "../../components/PageContents";
 
 const Words = styled.div`
     display: flex;
@@ -39,6 +39,7 @@ export default function current_projects() {
                         <p>Once projects on this list are completed, they will eventually be moved to the &#34;Past Projects&#34; page.</p>
                         <ul>
                             <li><u>The Luxury Elite (Skoolie Build)</u></li>
+                            <li>Steam Data Warehouse</li>
                             <li><s>Centralized Archival System for Home Networks (CASH)</s> - This project has been completed!</li> {/* Note to future self you will need to create entry in past projects. */}
                             <li>OG-PMS (Off Grid Power Management System)</li>
                             <ul>

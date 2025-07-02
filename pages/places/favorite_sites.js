@@ -1,9 +1,9 @@
 import styled from "styled-components";
 // import GlobalStyle from '../../components/GlobalStyle';
-import {Helmet} from 'react-helmet';
-import MainContainer from '../../components/MainContainer';
-import Topbar from '../../components/Topbar';
-import PageContents from '../../components/PageContents';
+import {Helmet} from "react-helmet";
+import MainContainer from "../../components/MainContainer";
+import Topbar from "../../components/Topbar";
+import PageContents from "../../components/PageContents";
 
 const Words = styled.div`
     display: flex;
@@ -52,19 +52,19 @@ export default function favorite_sites() {
                         <p>Here is a list of some websites I generally like to visit from time to time:</p>
                         <Links>
                             <a href="https://www.anandtech.com/" target="_blank" rel="noopener noreferrer">AnandTech</a>
-                            <p>- Great source of hardware related tech news.</p>
+                            <p>- Great source of hardware related tech news. (RIP to one of the best sites there was)</p>
                         </Links>
                         <Links>
                             <a href="https://arstechnica.com/" target="_blank" rel="noopener noreferrer">Ars Technica</a>
                             <p>- A good news source for techies.</p>
                         </Links>
                         <Links>
-                            <a href="https://cultists.network/" target="_blank" rel="noopener noreferrer">Cultists Network</a>
-                            <p>- The go to spot for PC Builders and enthusiasts alike for hardware component rankings.</p> 
-                        </Links>
-                        <Links>
                             <a href="https://thebulletin.org/#navbar-brand" target="_blank" rel="noopener noreferrer">Bulletin of the Atomic Scientists</a>
                             <p>- A well known site for the famous "Doomsday Clock".</p>
+                        </Links>
+                        <Links>
+                            <a href="https://cultists.network/" target="_blank" rel="noopener noreferrer">Cultists Network</a>
+                            <p>- The go to spot for PC Builders and enthusiasts alike for hardware component rankings.</p> 
                         </Links>
                         <Links>
                             <a href="https://www.govdeals.com/" target="_blank" rel="noopener noreferrer">GovDeals</a>
